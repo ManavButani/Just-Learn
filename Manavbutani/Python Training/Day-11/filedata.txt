@@ -1,0 +1,3 @@
+unicode sample data
+string sample data
+b'byte sample data'

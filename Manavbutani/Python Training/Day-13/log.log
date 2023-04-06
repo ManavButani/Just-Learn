@@ -1,0 +1,958 @@
+2023-01-03 17:57:21,867 CRITICAL 15564 - Connection established with API.
+2023-01-03 17:57:21,871 DEBUG 15564 - Thread is running.
+2023-01-03 17:57:21,893 DEBUG 21908 - Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 17:57:23,854 DEBUG 21908 - http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-03 17:59:08,689 CRITICAL 20584 - Connection established with API.
+2023-01-03 17:59:08,691 DEBUG 20584 - Thread is running.
+2023-01-03 17:59:08,698 DEBUG 3844 - Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 17:59:10,243 DEBUG 3844 - http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-03 18:00:55,384 CRITICAL 18000 - Connection established with API.
+2023-01-03 18:00:55,386 DEBUG 18000 - Thread is running.
+2023-01-03 18:00:55,390 DEBUG 21384 - Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:00:56,750 DEBUG 21384 - http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-03 18:07:04,494 CRITICAL 20380 Connection established with API.
+2023-01-03 18:07:04,506 DEBUG 20380 Thread is running.
+2023-01-03 18:07:04,519 DEBUG 10736 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:07:05,970 DEBUG 10736 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-03 18:10:46,915 CRITICAL 7604 Connection established with API.
+2023-01-03 18:10:46,918 DEBUG 7604 Thread is running.
+2023-01-03 18:10:46,926 DEBUG 13432 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:10:48,532 DEBUG 13432 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-03 18:18:39,981 CRITICAL 12500 Connection established with API.
+2023-01-03 18:18:39,989 DEBUG 12500 Thread is running.
+2023-01-03 18:18:39,996 DEBUG 15740 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:18:41,443 DEBUG 15740 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-03 18:18:41,456 INFO 12500 _394210.json is saved.
+2023-01-03 18:18:41,456 DEBUG 12500 Thread is running.
+2023-01-03 18:18:41,459 DEBUG 15740 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:18:42,890 DEBUG 15740 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-03 18:18:42,924 INFO 12500 Ellis Bridge Cross Road_380006.json is saved.
+2023-01-03 18:18:42,927 DEBUG 12500 Thread is running.
+2023-01-03 18:18:42,932 DEBUG 15740 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:18:44,129 DEBUG 15740 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-03 18:18:44,143 INFO 12500 Kadak Bazar Road_390005.json is saved.
+2023-01-03 18:18:44,144 DEBUG 12500 Thread is running.
+2023-01-03 18:18:44,147 DEBUG 15740 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:18:45,642 DEBUG 15740 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-03 18:18:45,665 INFO 12500 Station Road_395003.json is saved.
+2023-01-03 18:18:45,666 DEBUG 12500 Thread is running.
+2023-01-03 18:18:45,675 DEBUG 15740 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:18:46,882 DEBUG 15740 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-03 18:18:46,918 INFO 12500 _387002.json is saved.
+2023-01-03 18:21:14,886 CRITICAL 20784 Connection established with API.
+2023-01-03 18:21:14,889 DEBUG 20784 Thread is running.
+2023-01-03 18:21:14,895 DEBUG 8764 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:21:16,386 DEBUG 8764 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-03 18:21:16,409 INFO 20784 _394210.json is saved.
+2023-01-03 18:21:16,410 DEBUG 20784 Thread is running.
+2023-01-03 18:21:16,413 DEBUG 8764 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:21:17,867 DEBUG 8764 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-03 18:21:17,890 INFO 20784 Ellis Bridge Cross Road_380006.json is saved.
+2023-01-03 18:21:17,890 DEBUG 20784 Thread is running.
+2023-01-03 18:21:17,892 DEBUG 8764 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:21:19,176 DEBUG 8764 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-03 18:21:19,191 INFO 20784 Kadak Bazar Road_390005.json is saved.
+2023-01-03 18:21:19,192 DEBUG 20784 Thread is running.
+2023-01-03 18:21:19,193 DEBUG 8764 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:21:20,569 DEBUG 8764 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-03 18:21:20,604 INFO 20784 Station Road_395003.json is saved.
+2023-01-03 18:21:20,605 DEBUG 20784 Thread is running.
+2023-01-03 18:21:20,606 DEBUG 8764 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:21:21,781 DEBUG 8764 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-03 18:21:21,799 INFO 20784 _387002.json is saved.
+2023-01-03 18:58:09,629 CRITICAL 12684 Connection established with API.
+2023-01-03 18:58:09,630 DEBUG 12684 Thread is running.
+2023-01-03 18:58:09,638 DEBUG 8220 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-03 18:58:11,419 DEBUG 8220 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 10:38:33,629 CRITICAL 1260 Connection established with API.
+2023-01-04 10:38:33,633 DEBUG 1260 Thread is running.
+2023-01-04 10:38:33,642 DEBUG 11912 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:38:35,698 DEBUG 11912 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 10:38:35,728 INFO 1260 output.json is saved.
+2023-01-04 10:38:35,730 DEBUG 1260 Thread is running.
+2023-01-04 10:38:35,739 DEBUG 11912 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:38:37,430 DEBUG 11912 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 10:38:37,457 INFO 1260 output.json is saved.
+2023-01-04 10:38:37,459 DEBUG 1260 Thread is running.
+2023-01-04 10:38:37,463 DEBUG 11912 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:38:38,755 DEBUG 11912 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 10:38:38,770 INFO 1260 output.json is saved.
+2023-01-04 10:38:38,770 DEBUG 1260 Thread is running.
+2023-01-04 10:38:38,773 DEBUG 11912 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:38:40,335 DEBUG 11912 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 10:38:40,366 INFO 1260 output.json is saved.
+2023-01-04 10:38:40,367 DEBUG 1260 Thread is running.
+2023-01-04 10:38:40,374 DEBUG 11912 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:38:41,683 DEBUG 11912 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 10:38:41,707 INFO 1260 output.json is saved.
+2023-01-04 10:38:59,696 CRITICAL 5996 Connection established with API.
+2023-01-04 10:38:59,701 DEBUG 5996 Thread is running.
+2023-01-04 10:38:59,709 DEBUG 10672 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:39:00,892 DEBUG 10672 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 10:39:00,901 INFO 5996 output.json is saved.
+2023-01-04 10:39:00,902 DEBUG 5996 Thread is running.
+2023-01-04 10:39:00,904 DEBUG 10672 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:39:02,561 DEBUG 10672 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 10:39:02,584 INFO 5996 output.json is saved.
+2023-01-04 10:39:02,585 DEBUG 5996 Thread is running.
+2023-01-04 10:39:02,593 DEBUG 10672 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:39:03,761 DEBUG 10672 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 10:39:03,768 INFO 5996 output.json is saved.
+2023-01-04 10:39:03,769 DEBUG 5996 Thread is running.
+2023-01-04 10:39:03,771 DEBUG 10672 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:39:05,252 DEBUG 10672 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 10:39:05,273 INFO 5996 output.json is saved.
+2023-01-04 10:39:05,275 DEBUG 5996 Thread is running.
+2023-01-04 10:39:05,276 DEBUG 10672 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:39:06,418 DEBUG 10672 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 10:39:06,438 INFO 5996 output.json is saved.
+2023-01-04 10:39:27,697 CRITICAL 13596 Connection established with API.
+2023-01-04 10:39:27,716 DEBUG 13596 Thread is running.
+2023-01-04 10:39:27,726 DEBUG 16876 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:39:28,997 DEBUG 16876 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 10:39:28,997 INFO 13596 output.json is saved.
+2023-01-04 10:39:28,997 DEBUG 13596 Thread is running.
+2023-01-04 10:39:29,012 DEBUG 16876 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:39:30,630 DEBUG 16876 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 10:39:30,662 INFO 13596 output.json is saved.
+2023-01-04 10:39:30,662 DEBUG 13596 Thread is running.
+2023-01-04 10:39:30,677 DEBUG 16876 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:39:31,849 DEBUG 16876 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 10:39:31,876 INFO 13596 output.json is saved.
+2023-01-04 10:39:31,876 DEBUG 13596 Thread is running.
+2023-01-04 10:39:31,876 DEBUG 16876 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:39:33,138 DEBUG 16876 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 10:39:33,138 INFO 13596 output.json is saved.
+2023-01-04 10:39:33,138 DEBUG 13596 Thread is running.
+2023-01-04 10:39:33,150 DEBUG 16876 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:39:34,256 DEBUG 16876 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 10:39:34,283 INFO 13596 output.json is saved.
+2023-01-04 10:42:39,734 CRITICAL 10900 Connection established with API.
+2023-01-04 10:42:39,735 DEBUG 10900 Thread is running.
+2023-01-04 10:42:39,740 DEBUG 3484 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:42:41,258 DEBUG 3484 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 10:43:36,120 CRITICAL 18268 Connection established with API.
+2023-01-04 10:43:36,129 DEBUG 18268 Thread is running.
+2023-01-04 10:43:36,132 DEBUG 10164 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:43:38,075 DEBUG 10164 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 10:43:38,097 INFO 18268 output.json is saved.
+2023-01-04 10:43:38,097 DEBUG 18268 Thread is running.
+2023-01-04 10:43:38,097 DEBUG 10164 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:43:39,992 DEBUG 10164 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 10:43:40,016 INFO 18268 output.json is saved.
+2023-01-04 10:43:40,016 DEBUG 18268 Thread is running.
+2023-01-04 10:43:40,019 DEBUG 10164 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:43:41,510 DEBUG 10164 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 10:43:41,527 INFO 18268 output.json is saved.
+2023-01-04 10:43:41,527 DEBUG 18268 Thread is running.
+2023-01-04 10:43:41,538 DEBUG 10164 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:43:43,343 DEBUG 10164 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 10:43:43,377 INFO 18268 output.json is saved.
+2023-01-04 10:43:43,377 DEBUG 18268 Thread is running.
+2023-01-04 10:43:43,377 DEBUG 10164 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 10:43:44,617 DEBUG 10164 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 10:43:44,654 INFO 18268 output.json is saved.
+2023-01-04 12:16:55,439 CRITICAL 7936 Connection established with API.
+2023-01-04 12:16:55,442 DEBUG 7936 Thread is running.
+2023-01-04 12:16:55,455 DEBUG 17812 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:16:57,213 DEBUG 17812 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 12:16:57,233 INFO 7936 output.json is saved.
+2023-01-04 12:16:57,234 DEBUG 7936 Thread is running.
+2023-01-04 12:18:21,535 CRITICAL 16964 Connection established with API.
+2023-01-04 12:18:21,537 DEBUG 16964 Thread is running.
+2023-01-04 12:18:21,545 DEBUG 14972 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:18:22,966 DEBUG 14972 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 12:18:22,969 DEBUG 16964 Thread is running.
+2023-01-04 12:18:22,973 DEBUG 14972 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:18:25,562 DEBUG 14972 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 12:18:25,565 DEBUG 16964 Thread is running.
+2023-01-04 12:18:25,572 DEBUG 14972 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:18:27,038 DEBUG 14972 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 12:18:27,041 DEBUG 16964 Thread is running.
+2023-01-04 12:18:27,048 DEBUG 14972 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:18:28,504 DEBUG 14972 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 12:18:28,507 DEBUG 16964 Thread is running.
+2023-01-04 12:18:28,512 DEBUG 14972 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:18:29,899 DEBUG 14972 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 12:18:29,905 INFO 16964 output.json is saved.
+2023-01-04 12:20:16,195 CRITICAL 828 Connection established with API.
+2023-01-04 12:20:16,196 DEBUG 828 Thread is running.
+2023-01-04 12:20:16,203 DEBUG 19064 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:20:17,652 DEBUG 19064 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 12:20:17,655 DEBUG 828 Thread is running.
+2023-01-04 12:20:17,661 DEBUG 19064 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:20:19,221 DEBUG 19064 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 12:20:19,225 DEBUG 828 Thread is running.
+2023-01-04 12:20:19,231 DEBUG 19064 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:20:20,419 DEBUG 19064 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 12:20:20,422 DEBUG 828 Thread is running.
+2023-01-04 12:20:20,429 DEBUG 19064 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:20:21,865 DEBUG 19064 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 12:20:21,868 DEBUG 828 Thread is running.
+2023-01-04 12:20:21,874 DEBUG 19064 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:20:22,991 DEBUG 19064 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 12:20:23,012 INFO 828 output.json is saved.
+2023-01-04 12:25:22,780 CRITICAL 13800 Connection established with API.
+2023-01-04 12:25:22,781 DEBUG 13800 Thread is running.
+2023-01-04 12:25:22,789 DEBUG 3636 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:25:24,532 DEBUG 3636 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 12:25:24,536 DEBUG 13800 Thread is running.
+2023-01-04 12:25:24,542 DEBUG 3636 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:25:25,920 DEBUG 3636 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 12:25:25,922 DEBUG 13800 Thread is running.
+2023-01-04 12:25:25,926 DEBUG 3636 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:25:27,187 DEBUG 3636 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 12:25:27,191 DEBUG 13800 Thread is running.
+2023-01-04 12:25:27,199 DEBUG 3636 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:25:28,664 DEBUG 3636 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 12:25:28,668 DEBUG 13800 Thread is running.
+2023-01-04 12:25:28,674 DEBUG 3636 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:25:29,879 DEBUG 3636 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 12:25:29,890 INFO 13800 output.json is saved.
+2023-01-04 12:38:08,978 CRITICAL 15080 Connection established with API.
+2023-01-04 12:38:08,979 DEBUG 15080 Thread is running.
+2023-01-04 12:38:08,986 DEBUG 10328 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:38:10,399 DEBUG 10328 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 12:38:10,404 DEBUG 15080 Thread is running.
+2023-01-04 12:38:10,410 DEBUG 10328 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:38:12,118 DEBUG 10328 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 12:38:12,118 DEBUG 15080 Thread is running.
+2023-01-04 12:38:12,121 DEBUG 10328 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:38:13,620 DEBUG 10328 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 12:38:13,622 DEBUG 15080 Thread is running.
+2023-01-04 12:38:13,624 DEBUG 10328 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:38:15,261 DEBUG 10328 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 12:38:15,263 DEBUG 15080 Thread is running.
+2023-01-04 12:38:15,266 DEBUG 10328 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:38:16,844 DEBUG 10328 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 12:38:16,853 INFO 15080 output.json is saved.
+2023-01-04 12:38:54,383 CRITICAL 4412 Connection established with API.
+2023-01-04 12:38:54,387 DEBUG 4412 Thread is running.
+2023-01-04 12:38:54,395 DEBUG 19432 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:38:55,721 DEBUG 19432 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 12:38:55,722 DEBUG 4412 Thread is running.
+2023-01-04 12:38:55,723 DEBUG 19432 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:38:57,309 DEBUG 19432 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 12:38:57,313 DEBUG 4412 Thread is running.
+2023-01-04 12:38:57,319 DEBUG 19432 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:38:58,451 DEBUG 19432 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 12:38:58,454 DEBUG 4412 Thread is running.
+2023-01-04 12:38:58,459 DEBUG 19432 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:38:59,910 DEBUG 19432 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 12:38:59,914 DEBUG 4412 Thread is running.
+2023-01-04 12:38:59,920 DEBUG 19432 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 12:39:01,097 DEBUG 19432 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 12:39:01,106 INFO 4412 output.json is saved.
+2023-01-04 13:23:24,955 CRITICAL 14968 Connection established with API.
+2023-01-04 13:23:28,839 DEBUG 14968 Thread is running.
+2023-01-04 13:23:28,851 DEBUG 4828 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:23:30,440 DEBUG 4828 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:23:30,441 DEBUG 14968 Thread is running.
+2023-01-04 13:23:30,444 DEBUG 4828 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:23:32,483 DEBUG 4828 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:23:32,486 DEBUG 14968 Thread is running.
+2023-01-04 13:23:32,493 DEBUG 4828 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:23:33,961 DEBUG 4828 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:23:33,965 DEBUG 14968 Thread is running.
+2023-01-04 13:23:33,971 DEBUG 4828 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:23:35,514 DEBUG 4828 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:23:35,515 DEBUG 14968 Thread is running.
+2023-01-04 13:23:35,519 DEBUG 4828 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:23:36,851 DEBUG 4828 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:25:38,726 CRITICAL 10508 Connection established with API.
+2023-01-04 13:25:41,335 DEBUG 10508 Thread is running.
+2023-01-04 13:25:41,348 DEBUG 18028 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:25:42,761 DEBUG 18028 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:25:42,763 DEBUG 10508 Thread is running.
+2023-01-04 13:25:42,766 DEBUG 18028 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:25:44,671 DEBUG 18028 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:25:44,673 DEBUG 10508 Thread is running.
+2023-01-04 13:25:44,678 DEBUG 18028 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:25:45,862 DEBUG 18028 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:25:45,866 DEBUG 10508 Thread is running.
+2023-01-04 13:25:45,871 DEBUG 18028 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:25:47,533 DEBUG 18028 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:25:47,534 DEBUG 10508 Thread is running.
+2023-01-04 13:25:47,537 DEBUG 18028 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:25:48,628 DEBUG 18028 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:27:15,754 CRITICAL 2716 Connection established with API.
+2023-01-04 13:27:19,146 DEBUG 2716 Thread is running.
+2023-01-04 13:27:19,158 DEBUG 10528 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:27:20,727 DEBUG 10528 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:27:20,730 DEBUG 2716 Thread is running.
+2023-01-04 13:27:20,737 DEBUG 10528 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:27:22,262 DEBUG 10528 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:27:22,265 DEBUG 2716 Thread is running.
+2023-01-04 13:27:22,271 DEBUG 10528 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:27:23,583 DEBUG 10528 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:27:23,587 DEBUG 2716 Thread is running.
+2023-01-04 13:27:23,593 DEBUG 10528 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:27:25,371 DEBUG 10528 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:27:25,375 DEBUG 2716 Thread is running.
+2023-01-04 13:27:25,382 DEBUG 10528 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:27:27,123 DEBUG 10528 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:27:50,433 CRITICAL 11952 Connection established with API.
+2023-01-04 13:27:52,072 DEBUG 11952 Thread is running.
+2023-01-04 13:27:52,086 DEBUG 9880 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:27:53,403 DEBUG 9880 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:27:53,406 DEBUG 11952 Thread is running.
+2023-01-04 13:27:53,412 DEBUG 9880 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:27:55,173 DEBUG 9880 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:27:55,177 DEBUG 11952 Thread is running.
+2023-01-04 13:27:55,184 DEBUG 9880 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:27:56,346 DEBUG 9880 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:27:56,348 DEBUG 11952 Thread is running.
+2023-01-04 13:27:56,351 DEBUG 9880 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:27:57,812 DEBUG 9880 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:27:57,814 DEBUG 11952 Thread is running.
+2023-01-04 13:27:57,818 DEBUG 9880 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:27:58,936 DEBUG 9880 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:29:09,881 CRITICAL 17596 Connection established with API.
+2023-01-04 13:29:14,298 DEBUG 17596 Thread is running.
+2023-01-04 13:29:14,310 DEBUG 11636 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:29:17,498 DEBUG 11636 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:29:17,501 DEBUG 17596 Thread is running.
+2023-01-04 13:29:17,508 DEBUG 11636 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:29:19,673 DEBUG 11636 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:29:19,676 DEBUG 17596 Thread is running.
+2023-01-04 13:29:19,683 DEBUG 11636 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:29:21,262 DEBUG 11636 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:29:21,265 DEBUG 17596 Thread is running.
+2023-01-04 13:29:21,271 DEBUG 11636 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:29:22,806 DEBUG 11636 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:29:22,809 DEBUG 17596 Thread is running.
+2023-01-04 13:29:22,815 DEBUG 11636 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:29:24,665 DEBUG 11636 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:29:39,782 CRITICAL 13712 Connection established with API.
+2023-01-04 13:29:44,974 DEBUG 13712 Thread is running.
+2023-01-04 13:29:44,986 DEBUG 2224 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:29:46,372 DEBUG 2224 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:29:46,376 DEBUG 13712 Thread is running.
+2023-01-04 13:29:46,382 DEBUG 2224 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:29:48,075 DEBUG 2224 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:29:48,079 DEBUG 13712 Thread is running.
+2023-01-04 13:29:48,085 DEBUG 2224 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:29:49,235 DEBUG 2224 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:29:49,239 DEBUG 13712 Thread is running.
+2023-01-04 13:29:49,245 DEBUG 2224 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:29:50,714 DEBUG 2224 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:29:50,716 DEBUG 13712 Thread is running.
+2023-01-04 13:29:50,718 DEBUG 2224 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:29:51,843 DEBUG 2224 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:33:54,155 CRITICAL 2184 Connection established with API.
+2023-01-04 13:33:57,238 DEBUG 2184 Thread is running.
+2023-01-04 13:33:57,249 DEBUG 17552 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:34:00,038 DEBUG 17552 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:34:00,041 DEBUG 2184 Thread is running.
+2023-01-04 13:34:00,047 DEBUG 17552 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:34:01,514 DEBUG 17552 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:34:01,517 DEBUG 2184 Thread is running.
+2023-01-04 13:34:01,523 DEBUG 17552 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:34:02,767 DEBUG 17552 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:34:02,769 DEBUG 2184 Thread is running.
+2023-01-04 13:34:02,771 DEBUG 17552 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:34:04,286 DEBUG 17552 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:34:04,289 DEBUG 2184 Thread is running.
+2023-01-04 13:34:04,295 DEBUG 17552 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:34:05,369 DEBUG 17552 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:34:53,499 CRITICAL 18480 Connection established with API.
+2023-01-04 13:34:55,658 DEBUG 18480 Thread is running.
+2023-01-04 13:34:55,669 DEBUG 2668 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:34:57,356 DEBUG 2668 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:34:57,359 DEBUG 18480 Thread is running.
+2023-01-04 13:34:57,366 DEBUG 2668 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:34:58,912 DEBUG 2668 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:34:58,915 DEBUG 18480 Thread is running.
+2023-01-04 13:34:58,922 DEBUG 2668 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:35:00,538 DEBUG 2668 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:35:00,542 DEBUG 18480 Thread is running.
+2023-01-04 13:35:00,548 DEBUG 2668 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:35:02,199 DEBUG 2668 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:35:02,202 DEBUG 18480 Thread is running.
+2023-01-04 13:35:02,209 DEBUG 2668 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:35:03,442 DEBUG 2668 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:36:13,156 CRITICAL 11072 Connection established with API.
+2023-01-04 13:36:16,452 DEBUG 11072 Thread is running.
+2023-01-04 13:36:16,464 DEBUG 3904 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:36:18,607 DEBUG 3904 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:36:18,610 DEBUG 11072 Thread is running.
+2023-01-04 13:36:18,614 DEBUG 3904 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:36:20,274 DEBUG 3904 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:36:20,275 DEBUG 11072 Thread is running.
+2023-01-04 13:36:20,279 DEBUG 3904 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:36:21,507 DEBUG 3904 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:36:21,510 DEBUG 11072 Thread is running.
+2023-01-04 13:36:21,517 DEBUG 3904 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:36:22,929 DEBUG 3904 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:36:22,931 DEBUG 11072 Thread is running.
+2023-01-04 13:36:22,937 DEBUG 3904 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:36:24,101 DEBUG 3904 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:36:28,446 CRITICAL 18920 Connection established with API.
+2023-01-04 13:36:29,813 DEBUG 18920 Thread is running.
+2023-01-04 13:36:29,825 DEBUG 5520 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:36:31,160 DEBUG 5520 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:36:31,164 DEBUG 18920 Thread is running.
+2023-01-04 13:36:31,170 DEBUG 5520 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:36:33,018 DEBUG 5520 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:36:33,020 DEBUG 18920 Thread is running.
+2023-01-04 13:36:33,024 DEBUG 5520 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:36:34,195 DEBUG 5520 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:36:34,202 DEBUG 18920 Thread is running.
+2023-01-04 13:36:34,205 DEBUG 5520 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:36:35,599 DEBUG 5520 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:36:35,601 DEBUG 18920 Thread is running.
+2023-01-04 13:36:35,606 DEBUG 5520 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:36:36,686 DEBUG 5520 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:40:29,734 CRITICAL 8096 Connection established with API.
+2023-01-04 13:40:32,330 DEBUG 8096 Thread is running.
+2023-01-04 13:40:32,343 DEBUG 10524 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:40:34,228 DEBUG 10524 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:40:34,230 DEBUG 8096 Thread is running.
+2023-01-04 13:40:34,234 DEBUG 10524 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:40:36,099 DEBUG 10524 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:40:36,103 DEBUG 8096 Thread is running.
+2023-01-04 13:40:36,109 DEBUG 10524 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:40:37,542 DEBUG 10524 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:40:37,545 DEBUG 8096 Thread is running.
+2023-01-04 13:40:37,552 DEBUG 10524 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:40:39,035 DEBUG 10524 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:40:39,037 DEBUG 8096 Thread is running.
+2023-01-04 13:40:39,044 DEBUG 10524 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:40:40,289 DEBUG 10524 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:53:59,275 CRITICAL 17556 Connection established with API.
+2023-01-04 13:54:02,369 DEBUG 17556 Thread is running.
+2023-01-04 13:54:02,380 DEBUG 2632 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:54:06,001 DEBUG 2632 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:54:06,004 DEBUG 17556 Thread is running.
+2023-01-04 13:54:06,011 DEBUG 2632 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:54:07,862 DEBUG 2632 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:54:07,866 DEBUG 17556 Thread is running.
+2023-01-04 13:54:07,871 DEBUG 2632 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:54:09,924 DEBUG 2632 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:54:09,928 DEBUG 17556 Thread is running.
+2023-01-04 13:54:09,934 DEBUG 2632 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:54:12,349 DEBUG 2632 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:54:12,350 DEBUG 17556 Thread is running.
+2023-01-04 13:54:12,353 DEBUG 2632 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:54:13,950 DEBUG 2632 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 13:56:11,147 CRITICAL 18532 Connection established with API.
+2023-01-04 13:56:14,203 DEBUG 18532 Thread is running.
+2023-01-04 13:56:14,216 DEBUG 1756 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:56:15,984 DEBUG 1756 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 13:56:15,988 DEBUG 18532 Thread is running.
+2023-01-04 13:56:15,994 DEBUG 1756 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:56:17,408 DEBUG 1756 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 13:56:17,409 DEBUG 18532 Thread is running.
+2023-01-04 13:56:17,413 DEBUG 1756 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:56:18,625 DEBUG 1756 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 13:56:18,629 DEBUG 18532 Thread is running.
+2023-01-04 13:56:18,633 DEBUG 1756 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:56:20,249 DEBUG 1756 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 13:56:20,251 DEBUG 18532 Thread is running.
+2023-01-04 13:56:20,256 DEBUG 1756 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 13:56:21,667 DEBUG 1756 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:00:19,906 CRITICAL 8096 Connection established with API.
+2023-01-04 14:00:22,194 DEBUG 8096 Thread is running.
+2023-01-04 14:00:22,208 DEBUG 17676 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:00:23,719 DEBUG 17676 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:00:23,721 DEBUG 8096 Thread is running.
+2023-01-04 14:00:23,724 DEBUG 17676 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:00:25,445 DEBUG 17676 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:00:25,448 DEBUG 8096 Thread is running.
+2023-01-04 14:00:25,455 DEBUG 17676 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:00:26,674 DEBUG 17676 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:00:26,677 DEBUG 8096 Thread is running.
+2023-01-04 14:00:26,683 DEBUG 17676 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:00:28,230 DEBUG 17676 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:00:28,233 DEBUG 8096 Thread is running.
+2023-01-04 14:00:28,238 DEBUG 17676 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:00:29,509 DEBUG 17676 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:02:18,300 CRITICAL 17136 Connection established with API.
+2023-01-04 14:02:18,303 DEBUG 17136 Thread is running.
+2023-01-04 14:02:18,313 DEBUG 1392 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:02:19,778 DEBUG 1392 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:02:19,795 INFO 17136 output.json is saved.
+2023-01-04 14:02:19,796 DEBUG 17136 Thread is running.
+2023-01-04 14:02:19,799 DEBUG 1392 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:02:21,342 DEBUG 1392 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:02:21,372 INFO 17136 output.json is saved.
+2023-01-04 14:02:21,374 DEBUG 17136 Thread is running.
+2023-01-04 14:02:21,381 DEBUG 1392 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:02:22,680 DEBUG 1392 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:02:22,689 INFO 17136 output.json is saved.
+2023-01-04 14:02:22,690 DEBUG 17136 Thread is running.
+2023-01-04 14:02:22,692 DEBUG 1392 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:02:24,257 DEBUG 1392 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:02:24,273 INFO 17136 output.json is saved.
+2023-01-04 14:02:24,274 DEBUG 17136 Thread is running.
+2023-01-04 14:02:24,278 DEBUG 1392 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:02:25,570 DEBUG 1392 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:02:25,584 INFO 17136 output.json is saved.
+2023-01-04 14:02:52,830 CRITICAL 7996 Connection established with API.
+2023-01-04 14:02:52,832 DEBUG 7996 Thread is running.
+2023-01-04 14:02:52,843 DEBUG 8 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:02:54,210 DEBUG 8 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:02:54,225 INFO 7996 output.json is saved.
+2023-01-04 14:02:54,226 DEBUG 7996 Thread is running.
+2023-01-04 14:02:54,230 DEBUG 8 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:02:56,066 DEBUG 8 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:02:56,077 INFO 7996 output.json is saved.
+2023-01-04 14:02:56,077 DEBUG 7996 Thread is running.
+2023-01-04 14:02:56,080 DEBUG 8 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:02:57,304 DEBUG 8 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:02:57,314 INFO 7996 output.json is saved.
+2023-01-04 14:02:57,315 DEBUG 7996 Thread is running.
+2023-01-04 14:02:57,318 DEBUG 8 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:02:58,914 DEBUG 8 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:02:58,930 INFO 7996 output.json is saved.
+2023-01-04 14:02:58,930 DEBUG 7996 Thread is running.
+2023-01-04 14:02:58,932 DEBUG 8 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:03:00,042 DEBUG 8 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:03:00,063 INFO 7996 output.json is saved.
+2023-01-04 14:05:01,597 CRITICAL 17320 Connection established with API.
+2023-01-04 14:05:11,463 DEBUG 17320 Thread is running.
+2023-01-04 14:05:11,477 DEBUG 18540 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:05:13,115 DEBUG 18540 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:05:13,118 DEBUG 17320 Thread is running.
+2023-01-04 14:05:13,125 DEBUG 18540 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:05:14,995 DEBUG 18540 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:05:14,995 DEBUG 17320 Thread is running.
+2023-01-04 14:05:14,998 DEBUG 18540 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:05:16,228 DEBUG 18540 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:05:16,231 DEBUG 17320 Thread is running.
+2023-01-04 14:05:16,234 DEBUG 18540 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:05:18,229 DEBUG 18540 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:05:18,232 DEBUG 17320 Thread is running.
+2023-01-04 14:05:18,238 DEBUG 18540 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:05:19,380 DEBUG 18540 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:06:12,057 CRITICAL 9572 Connection established with API.
+2023-01-04 14:06:21,806 DEBUG 9572 Thread is running.
+2023-01-04 14:06:21,820 DEBUG 14248 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:06:23,964 DEBUG 14248 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:06:23,967 DEBUG 9572 Thread is running.
+2023-01-04 14:06:23,973 DEBUG 14248 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:06:25,646 DEBUG 14248 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:06:25,650 DEBUG 9572 Thread is running.
+2023-01-04 14:06:25,655 DEBUG 14248 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:06:27,006 DEBUG 14248 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:06:27,009 DEBUG 9572 Thread is running.
+2023-01-04 14:06:27,016 DEBUG 14248 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:06:28,443 DEBUG 14248 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:06:28,446 DEBUG 9572 Thread is running.
+2023-01-04 14:06:28,453 DEBUG 14248 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:06:29,823 DEBUG 14248 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:06:45,455 CRITICAL 18544 Connection established with API.
+2023-01-04 14:06:47,635 DEBUG 18544 Thread is running.
+2023-01-04 14:06:47,645 DEBUG 2464 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:06:49,364 DEBUG 2464 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:06:49,366 DEBUG 18544 Thread is running.
+2023-01-04 14:06:49,370 DEBUG 2464 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:06:51,258 DEBUG 2464 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:06:51,260 DEBUG 18544 Thread is running.
+2023-01-04 14:06:51,265 DEBUG 2464 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:06:52,717 DEBUG 2464 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:06:52,718 DEBUG 18544 Thread is running.
+2023-01-04 14:06:52,720 DEBUG 2464 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:06:54,364 DEBUG 2464 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:06:54,365 DEBUG 18544 Thread is running.
+2023-01-04 14:06:54,368 DEBUG 2464 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:06:55,791 DEBUG 2464 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:08:28,520 CRITICAL 18228 Connection established with API.
+2023-01-04 14:08:59,723 DEBUG 18228 Thread is running.
+2023-01-04 14:08:59,732 DEBUG 18140 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:09:01,569 DEBUG 18140 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:09:01,571 DEBUG 18228 Thread is running.
+2023-01-04 14:09:01,574 DEBUG 18140 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:09:03,149 DEBUG 18140 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:09:03,150 DEBUG 18228 Thread is running.
+2023-01-04 14:09:03,153 DEBUG 18140 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:09:04,411 DEBUG 18140 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:09:04,414 DEBUG 18228 Thread is running.
+2023-01-04 14:09:04,420 DEBUG 18140 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:09:05,821 DEBUG 18140 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:09:05,825 DEBUG 18228 Thread is running.
+2023-01-04 14:09:05,831 DEBUG 18140 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:09:07,338 DEBUG 18140 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:16:15,834 CRITICAL 13032 Connection established with API.
+2023-01-04 14:16:22,393 CRITICAL 14112 Connection established with API.
+2023-01-04 14:16:27,149 DEBUG 14112 Thread is running.
+2023-01-04 14:16:27,162 DEBUG 13224 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:16:28,965 DEBUG 13224 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:16:28,967 DEBUG 14112 Thread is running.
+2023-01-04 14:16:28,971 DEBUG 13224 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:16:30,651 DEBUG 13224 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:16:30,655 DEBUG 14112 Thread is running.
+2023-01-04 14:16:30,659 DEBUG 13224 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:16:32,174 DEBUG 13224 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:16:32,176 DEBUG 14112 Thread is running.
+2023-01-04 14:16:32,181 DEBUG 13224 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:16:33,724 DEBUG 13224 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:16:33,728 DEBUG 14112 Thread is running.
+2023-01-04 14:16:33,735 DEBUG 13224 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:16:35,086 DEBUG 13224 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:17:44,794 CRITICAL 11404 Connection established with API.
+2023-01-04 14:17:46,476 DEBUG 11404 Thread is running.
+2023-01-04 14:17:46,489 DEBUG 6624 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:17:48,174 DEBUG 6624 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:17:48,176 DEBUG 11404 Thread is running.
+2023-01-04 14:17:48,178 DEBUG 6624 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:17:49,586 DEBUG 6624 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:17:49,589 DEBUG 11404 Thread is running.
+2023-01-04 14:17:49,593 DEBUG 6624 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:17:50,833 DEBUG 6624 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:17:50,836 DEBUG 11404 Thread is running.
+2023-01-04 14:17:50,842 DEBUG 6624 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:17:52,248 DEBUG 6624 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:17:52,249 DEBUG 11404 Thread is running.
+2023-01-04 14:17:52,252 DEBUG 6624 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:17:53,378 DEBUG 6624 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:19:42,631 CRITICAL 8060 Connection established with API.
+2023-01-04 14:19:45,510 DEBUG 8060 Thread is running.
+2023-01-04 14:19:45,517 DEBUG 19412 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:19:47,119 DEBUG 19412 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:19:47,121 DEBUG 8060 Thread is running.
+2023-01-04 14:19:47,126 DEBUG 19412 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:19:48,756 DEBUG 19412 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:19:48,758 DEBUG 8060 Thread is running.
+2023-01-04 14:19:48,761 DEBUG 19412 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:19:50,024 DEBUG 19412 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:19:50,025 DEBUG 8060 Thread is running.
+2023-01-04 14:19:50,027 DEBUG 19412 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:19:51,526 DEBUG 19412 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:19:51,527 DEBUG 8060 Thread is running.
+2023-01-04 14:19:51,528 DEBUG 19412 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:19:52,885 DEBUG 19412 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:22:14,635 CRITICAL 14716 Connection established with API.
+2023-01-04 14:22:20,004 DEBUG 14716 Thread is running.
+2023-01-04 14:22:20,012 DEBUG 8740 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:22:21,510 DEBUG 8740 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:22:21,512 DEBUG 14716 Thread is running.
+2023-01-04 14:22:21,515 DEBUG 8740 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:22:23,269 DEBUG 8740 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:22:23,270 DEBUG 14716 Thread is running.
+2023-01-04 14:22:23,273 DEBUG 8740 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:22:24,827 DEBUG 8740 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:22:24,829 DEBUG 14716 Thread is running.
+2023-01-04 14:22:24,831 DEBUG 8740 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:22:26,497 DEBUG 8740 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:22:26,497 DEBUG 14716 Thread is running.
+2023-01-04 14:22:26,499 DEBUG 8740 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:22:27,932 DEBUG 8740 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:25:22,668 CRITICAL 13084 Connection established with API.
+2023-01-04 14:25:25,202 DEBUG 13084 Thread is running.
+2023-01-04 14:25:25,213 DEBUG 14348 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:25:26,811 DEBUG 14348 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:25:26,814 DEBUG 13084 Thread is running.
+2023-01-04 14:25:26,820 DEBUG 14348 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:25:28,557 DEBUG 14348 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:25:28,560 DEBUG 13084 Thread is running.
+2023-01-04 14:25:28,567 DEBUG 14348 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:25:30,020 DEBUG 14348 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:25:30,023 DEBUG 13084 Thread is running.
+2023-01-04 14:25:30,029 DEBUG 14348 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:25:32,184 DEBUG 14348 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:25:32,185 DEBUG 13084 Thread is running.
+2023-01-04 14:25:32,187 DEBUG 14348 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:25:33,735 DEBUG 14348 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:26:27,115 CRITICAL 12368 Connection established with API.
+2023-01-04 14:26:28,848 DEBUG 12368 Thread is running.
+2023-01-04 14:26:28,863 DEBUG 19208 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:26:30,540 DEBUG 19208 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:26:30,548 DEBUG 12368 Thread is running.
+2023-01-04 14:26:30,555 DEBUG 19208 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:26:32,283 DEBUG 19208 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:26:32,289 DEBUG 12368 Thread is running.
+2023-01-04 14:26:32,300 DEBUG 19208 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:26:34,003 DEBUG 19208 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:26:34,008 DEBUG 12368 Thread is running.
+2023-01-04 14:26:34,021 DEBUG 19208 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:26:35,629 DEBUG 19208 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:26:35,632 DEBUG 12368 Thread is running.
+2023-01-04 14:26:35,641 DEBUG 19208 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:26:36,821 DEBUG 19208 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:31:16,512 CRITICAL 11356 Connection established with API.
+2023-01-04 14:31:16,514 DEBUG 11356 Thread is running.
+2023-01-04 14:31:16,521 DEBUG 17040 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:31:18,091 DEBUG 17040 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:31:18,109 INFO 11356 output.json is saved.
+2023-01-04 14:31:18,111 DEBUG 11356 Thread is running.
+2023-01-04 14:31:18,118 DEBUG 17040 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:31:19,864 DEBUG 17040 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:31:19,882 INFO 11356 output.json is saved.
+2023-01-04 14:31:19,883 DEBUG 11356 Thread is running.
+2023-01-04 14:31:19,885 DEBUG 17040 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:31:21,231 DEBUG 17040 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:31:21,247 INFO 11356 output.json is saved.
+2023-01-04 14:31:21,247 DEBUG 11356 Thread is running.
+2023-01-04 14:31:21,249 DEBUG 17040 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:31:22,693 DEBUG 17040 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:31:22,702 INFO 11356 output.json is saved.
+2023-01-04 14:31:22,702 DEBUG 11356 Thread is running.
+2023-01-04 14:31:22,705 DEBUG 17040 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:31:24,159 DEBUG 17040 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:31:24,178 INFO 11356 output.json is saved.
+2023-01-04 14:31:44,946 CRITICAL 16464 Connection established with API.
+2023-01-04 14:31:58,865 DEBUG 16464 Thread is running.
+2023-01-04 14:31:58,878 DEBUG 5584 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:32:00,362 DEBUG 5584 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:32:00,364 DEBUG 16464 Thread is running.
+2023-01-04 14:32:00,366 DEBUG 5584 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:32:01,872 DEBUG 5584 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:32:01,875 DEBUG 16464 Thread is running.
+2023-01-04 14:32:01,881 DEBUG 5584 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:32:03,521 DEBUG 5584 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:32:03,522 DEBUG 16464 Thread is running.
+2023-01-04 14:32:03,525 DEBUG 5584 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:32:05,274 DEBUG 5584 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:32:05,276 DEBUG 16464 Thread is running.
+2023-01-04 14:32:05,278 DEBUG 5584 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:32:06,709 DEBUG 5584 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 14:36:11,612 CRITICAL 12500 Connection established with API.
+2023-01-04 14:36:47,390 CRITICAL 12636 Connection established with API.
+2023-01-04 14:36:49,540 DEBUG 12636 Thread is running.
+2023-01-04 14:36:49,565 DEBUG 19028 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:36:51,008 DEBUG 19028 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:36:51,014 DEBUG 12636 Thread is running.
+2023-01-04 14:36:51,020 DEBUG 19028 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:37:01,762 DEBUG 19028 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 504 132
+2023-01-04 14:40:36,537 CRITICAL 1656 Connection established with API.
+2023-01-04 14:40:38,669 DEBUG 1656 Thread is running.
+2023-01-04 14:40:38,677 DEBUG 4748 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:40:40,056 DEBUG 4748 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 14:40:40,059 DEBUG 1656 Thread is running.
+2023-01-04 14:40:40,066 DEBUG 4748 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:40:41,757 DEBUG 4748 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 14:40:41,759 DEBUG 1656 Thread is running.
+2023-01-04 14:40:41,765 DEBUG 4748 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:40:43,129 DEBUG 4748 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 14:40:43,132 DEBUG 1656 Thread is running.
+2023-01-04 14:40:43,137 DEBUG 4748 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:40:44,570 DEBUG 4748 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 14:40:44,574 DEBUG 1656 Thread is running.
+2023-01-04 14:40:44,582 DEBUG 4748 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 14:40:45,759 DEBUG 4748 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 16:48:39,283 CRITICAL 11364 Connection established with API.
+2023-01-04 16:48:41,827 DEBUG 11364 Thread is running.
+2023-01-04 16:48:41,839 DEBUG 14376 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 16:48:43,901 DEBUG 14376 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 16:48:43,905 DEBUG 11364 Thread is running.
+2023-01-04 16:48:43,910 DEBUG 14376 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 16:48:46,221 DEBUG 14376 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 16:48:46,222 DEBUG 11364 Thread is running.
+2023-01-04 16:48:46,226 DEBUG 14376 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 16:48:48,187 DEBUG 14376 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 16:48:48,188 DEBUG 11364 Thread is running.
+2023-01-04 16:48:48,191 DEBUG 14376 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 16:48:49,867 DEBUG 14376 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 16:48:49,868 DEBUG 11364 Thread is running.
+2023-01-04 16:48:49,871 DEBUG 14376 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 16:48:51,128 DEBUG 14376 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:01:55,784 CRITICAL 14920 Connection established with API.
+2023-01-04 17:01:58,585 DEBUG 14920 Thread is running.
+2023-01-04 17:01:58,598 DEBUG 16956 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:02:00,712 DEBUG 16956 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:02:00,713 DEBUG 14920 Thread is running.
+2023-01-04 17:02:00,715 DEBUG 16956 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:02:03,549 DEBUG 16956 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:02:03,552 DEBUG 14920 Thread is running.
+2023-01-04 17:02:03,558 DEBUG 16956 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:02:05,831 DEBUG 16956 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:02:05,832 DEBUG 14920 Thread is running.
+2023-01-04 17:02:05,835 DEBUG 16956 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:02:07,505 DEBUG 16956 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:02:07,506 DEBUG 14920 Thread is running.
+2023-01-04 17:02:07,509 DEBUG 16956 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:02:11,478 DEBUG 16956 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:03:05,224 CRITICAL 3088 Connection established with API.
+2023-01-04 17:03:08,749 DEBUG 3088 Thread is running.
+2023-01-04 17:03:08,768 DEBUG 1616 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:03:10,566 DEBUG 1616 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:03:10,568 DEBUG 3088 Thread is running.
+2023-01-04 17:03:10,571 DEBUG 1616 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:03:12,204 DEBUG 1616 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:03:12,206 DEBUG 3088 Thread is running.
+2023-01-04 17:03:12,208 DEBUG 1616 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:03:17,145 DEBUG 1616 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:03:17,148 DEBUG 3088 Thread is running.
+2023-01-04 17:03:17,155 DEBUG 1616 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:03:18,811 DEBUG 1616 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:03:18,813 DEBUG 3088 Thread is running.
+2023-01-04 17:03:18,816 DEBUG 1616 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:03:20,498 DEBUG 1616 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:15:08,859 CRITICAL 10732 Connection established with API.
+2023-01-04 17:15:13,060 DEBUG 10732 Thread is running.
+2023-01-04 17:15:13,074 DEBUG 13600 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:15:15,568 DEBUG 13600 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:15:15,570 DEBUG 10732 Thread is running.
+2023-01-04 17:15:15,574 DEBUG 13600 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:15:18,033 DEBUG 13600 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:15:18,036 DEBUG 10732 Thread is running.
+2023-01-04 17:15:18,043 DEBUG 13600 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:15:19,863 DEBUG 13600 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:15:19,867 DEBUG 10732 Thread is running.
+2023-01-04 17:15:19,872 DEBUG 13600 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:15:22,079 DEBUG 13600 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:15:22,082 DEBUG 10732 Thread is running.
+2023-01-04 17:15:22,089 DEBUG 13600 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:15:24,468 DEBUG 13600 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:16:22,311 CRITICAL 16848 Connection established with API.
+2023-01-04 17:16:25,381 DEBUG 16848 Thread is running.
+2023-01-04 17:16:25,397 DEBUG 18564 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:16:27,101 DEBUG 18564 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:16:27,105 DEBUG 16848 Thread is running.
+2023-01-04 17:16:27,111 DEBUG 18564 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:16:28,796 DEBUG 18564 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:16:28,798 DEBUG 16848 Thread is running.
+2023-01-04 17:16:28,805 DEBUG 18564 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:16:30,237 DEBUG 18564 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:16:30,240 DEBUG 16848 Thread is running.
+2023-01-04 17:16:30,247 DEBUG 18564 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:16:31,730 DEBUG 18564 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:16:31,733 DEBUG 16848 Thread is running.
+2023-01-04 17:16:31,739 DEBUG 18564 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:16:33,835 DEBUG 18564 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:20:26,318 CRITICAL 14528 Connection established with API.
+2023-01-04 17:20:28,877 DEBUG 14528 Thread is running.
+2023-01-04 17:20:28,886 DEBUG 9600 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:20:30,406 DEBUG 9600 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:20:30,409 DEBUG 14528 Thread is running.
+2023-01-04 17:20:30,415 DEBUG 9600 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:20:32,219 DEBUG 9600 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:20:32,223 DEBUG 14528 Thread is running.
+2023-01-04 17:20:32,229 DEBUG 9600 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:20:33,691 DEBUG 9600 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:20:33,695 DEBUG 14528 Thread is running.
+2023-01-04 17:20:33,701 DEBUG 9600 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:20:35,540 DEBUG 9600 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:20:35,543 DEBUG 14528 Thread is running.
+2023-01-04 17:20:35,549 DEBUG 9600 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:20:37,153 DEBUG 9600 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:21:49,367 CRITICAL 10520 Connection established with API.
+2023-01-04 17:21:52,385 DEBUG 10520 Thread is running.
+2023-01-04 17:21:52,397 DEBUG 10484 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:21:54,273 DEBUG 10484 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:21:54,276 DEBUG 10520 Thread is running.
+2023-01-04 17:21:54,282 DEBUG 10484 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:21:56,174 DEBUG 10484 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:21:56,176 DEBUG 10520 Thread is running.
+2023-01-04 17:21:56,182 DEBUG 10484 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:21:57,674 DEBUG 10484 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:21:57,678 DEBUG 10520 Thread is running.
+2023-01-04 17:21:57,683 DEBUG 10484 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:21:59,188 DEBUG 10484 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:21:59,189 DEBUG 10520 Thread is running.
+2023-01-04 17:21:59,192 DEBUG 10484 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:22:00,492 DEBUG 10484 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:22:27,762 CRITICAL 13716 Connection established with API.
+2023-01-04 17:22:29,098 DEBUG 13716 Thread is running.
+2023-01-04 17:22:29,113 DEBUG 17704 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:22:30,870 DEBUG 17704 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:22:30,871 DEBUG 13716 Thread is running.
+2023-01-04 17:22:30,873 DEBUG 17704 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:22:33,148 DEBUG 17704 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:22:33,150 DEBUG 13716 Thread is running.
+2023-01-04 17:22:33,153 DEBUG 17704 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:22:34,947 DEBUG 17704 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:22:34,950 DEBUG 13716 Thread is running.
+2023-01-04 17:22:34,954 DEBUG 17704 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:22:36,787 DEBUG 17704 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:22:36,788 DEBUG 13716 Thread is running.
+2023-01-04 17:22:36,791 DEBUG 17704 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:22:38,078 DEBUG 17704 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:23:34,814 CRITICAL 18968 Connection established with API.
+2023-01-04 17:23:38,021 DEBUG 18968 Thread is running.
+2023-01-04 17:23:38,034 DEBUG 18268 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:23:39,917 DEBUG 18268 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:23:39,921 DEBUG 18968 Thread is running.
+2023-01-04 17:23:39,927 DEBUG 18268 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:23:41,451 DEBUG 18268 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:23:41,454 DEBUG 18968 Thread is running.
+2023-01-04 17:23:41,461 DEBUG 18268 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:23:42,642 DEBUG 18268 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:23:42,644 DEBUG 18968 Thread is running.
+2023-01-04 17:23:42,651 DEBUG 18268 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:23:44,343 DEBUG 18268 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:23:44,347 DEBUG 18968 Thread is running.
+2023-01-04 17:23:44,353 DEBUG 18268 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:23:45,505 DEBUG 18268 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:24:37,681 CRITICAL 9012 Connection established with API.
+2023-01-04 17:24:38,734 DEBUG 9012 Thread is running.
+2023-01-04 17:24:38,746 DEBUG 18888 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:24:40,113 DEBUG 18888 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:24:40,116 DEBUG 9012 Thread is running.
+2023-01-04 17:24:40,123 DEBUG 18888 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:24:41,425 DEBUG 18888 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:24:41,428 DEBUG 9012 Thread is running.
+2023-01-04 17:24:41,431 DEBUG 18888 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:24:42,678 DEBUG 18888 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:24:42,680 DEBUG 9012 Thread is running.
+2023-01-04 17:24:42,683 DEBUG 18888 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:24:44,150 DEBUG 18888 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:24:44,153 DEBUG 9012 Thread is running.
+2023-01-04 17:24:44,160 DEBUG 18888 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:24:46,070 DEBUG 18888 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:27:10,778 CRITICAL 10768 Connection established with API.
+2023-01-04 17:27:13,212 DEBUG 10768 Thread is running.
+2023-01-04 17:27:13,223 DEBUG 10232 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:27:14,834 DEBUG 10232 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:27:14,839 DEBUG 10768 Thread is running.
+2023-01-04 17:27:14,845 DEBUG 10232 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:27:16,808 DEBUG 10232 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:27:16,810 DEBUG 10768 Thread is running.
+2023-01-04 17:27:16,813 DEBUG 10232 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:27:18,278 DEBUG 10232 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:27:18,281 DEBUG 10768 Thread is running.
+2023-01-04 17:27:18,289 DEBUG 10232 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:27:20,429 DEBUG 10232 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:27:20,432 DEBUG 10768 Thread is running.
+2023-01-04 17:27:20,438 DEBUG 10232 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:27:22,349 DEBUG 10232 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:29:29,245 CRITICAL 7052 Connection established with API.
+2023-01-04 17:29:30,243 DEBUG 7052 Thread is running.
+2023-01-04 17:29:30,255 DEBUG 10144 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:29:31,863 DEBUG 10144 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:29:31,864 DEBUG 7052 Thread is running.
+2023-01-04 17:29:31,869 DEBUG 10144 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:29:33,733 DEBUG 10144 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:29:33,735 DEBUG 7052 Thread is running.
+2023-01-04 17:29:33,738 DEBUG 10144 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:29:35,074 DEBUG 10144 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:29:35,075 DEBUG 7052 Thread is running.
+2023-01-04 17:29:35,078 DEBUG 10144 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:29:36,435 DEBUG 10144 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:29:36,437 DEBUG 7052 Thread is running.
+2023-01-04 17:29:36,441 DEBUG 10144 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:29:37,571 DEBUG 10144 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 17:30:20,946 CRITICAL 13904 Connection established with API.
+2023-01-04 17:31:08,117 DEBUG 13904 Thread is running.
+2023-01-04 17:31:08,127 DEBUG 17816 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:31:10,149 DEBUG 17816 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.1702,72.8311&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 824
+2023-01-04 17:31:10,153 DEBUG 13904 Thread is running.
+2023-01-04 17:31:10,159 DEBUG 17816 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:31:11,739 DEBUG 17816 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=23.0225,72.5714&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 864
+2023-01-04 17:31:11,743 DEBUG 13904 Thread is running.
+2023-01-04 17:31:11,749 DEBUG 17816 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:31:13,005 DEBUG 17816 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.3072,73.1812&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 853
+2023-01-04 17:31:13,008 DEBUG 13904 Thread is running.
+2023-01-04 17:31:13,014 DEBUG 17816 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:31:14,884 DEBUG 17816 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=21.2049,72.8411&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 844
+2023-01-04 17:31:14,888 DEBUG 13904 Thread is running.
+2023-01-04 17:31:14,894 DEBUG 17816 Starting new HTTP connection (1): www.mapquestapi.com:80
+2023-01-04 17:31:16,072 DEBUG 17816 http://www.mapquestapi.com:80 "POST /geocoding/v1/reverse?key=87GUw0zAbXQK0nyUCNGpywogG4mI9uhA&location=22.6916,72.8634&includeRoadMetadata=true&includeNearestIntersection=true HTTP/1.1" 200 834
+2023-01-04 18:24:34,793 CRITICAL 10336 Connection established with API.
+2023-01-04 18:24:36,929 DEBUG 10336 Thread is running.
+2023-01-04 18:24:39,530 DEBUG 10336 Thread is running.
+2023-01-04 18:24:41,043 DEBUG 10336 Thread is running.
+2023-01-04 18:24:43,043 DEBUG 10336 Thread is running.
+2023-01-04 18:24:45,218 DEBUG 10336 Thread is running.
+2023-01-04 18:27:14,635 CRITICAL 12496 Connection established with API.
+2023-01-04 18:27:14,640 DEBUG 12496 Thread is running.
+2023-01-04 18:27:16,895 INFO 12496 output3.json is saved.
+2023-01-04 18:27:16,896 DEBUG 12496 Thread is running.
+2023-01-04 18:27:19,317 INFO 12496 output3.json is saved.
+2023-01-04 18:27:19,319 DEBUG 12496 Thread is running.
+2023-01-04 18:27:21,163 INFO 12496 output3.json is saved.
+2023-01-04 18:27:21,165 DEBUG 12496 Thread is running.
+2023-01-04 18:27:22,621 INFO 12496 output3.json is saved.
+2023-01-04 18:27:22,622 DEBUG 12496 Thread is running.
+2023-01-04 18:27:24,281 INFO 12496 output3.json is saved.

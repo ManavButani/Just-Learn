@@ -1,0 +1,29 @@
+step-1: npx eslint --init
+
+
+step-2: Inside Script in package.json add below lines
+
+"lint": "eslint src/**/*.js",
+"lint-fix" : "eslint src/**/*.js --fix"
+
+step-3: eslint.js should have following content
+
+module.exports = {
+  env: {
+    browser: true,
+    es2021: true,
+    jest: true,
+  },
+  extends: ["eslint:recommended", "plugin:react/recommended"],
+  overrides: [],
+  parserOptions: {
+    ecmaVersion: "latest",
+    sourceType: "module",
+  },
+  plugins: ["react"],
+  rules: {
+    "react/react-in-jsx-scope": "off",
+  },
+};
+
+step-4: npm run lint

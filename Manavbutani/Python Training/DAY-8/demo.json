@@ -1,0 +1,116 @@
+{
+    "data": {
+        "threats": [
+            {
+                "apiReportURL": "https://www.threathq.com/apiv1/t3/malware/7679/html",
+                "hasReport": true,
+                "executableSet": [
+                    {
+                        "vendorDetections": [],
+                        "md5Hex": "377d484478843e5e2d8b7eb935cbf598",
+                        "sha1Hex": "93a3de1cd930e5b2e09dc76d3575e7d8f80008bd",
+                        "sha384Hex": "37132257d40bc727078d4aece753d85bb3193a8aac5b6ff54073179e2e6338642ca255180177bf7370df9a832844d100",
+                        "fileName": "Office1.ace",
+                        "malwareFamily": {
+                            "familyName": "Pony",
+                            "description": "Information stealer and malware downloader"
+                        },
+                        "sha512Hex": "3e3f9d906c7669b15ab62a749a92f63d8956bdb95b498bc51acf2d94f8cbc59a214b56ef9e98f5873876d788c4bef5857422d469e0b9ea64fd7f485924b24ce3",
+                        "sha224Hex": "934a7b8d9cd249acbc782ccf70a0d039608613de47372f4a61acf2f8",
+                        "sha256Hex": "d3a3548d9292d1c8de2c22c5dff970375cac7bf83cec724fd078fe7c0c203786",
+                        "dateEntered": 1480630184651,
+                        "fileNameExtension": "ace",
+                        "type": "Attachment",
+                        "ssdeep": "12288:U3jFodTmr/Xg6O4o7JUURVdXttuOWSF2LX6Hkr:WKx0Xg6O5fPXFWSF2Nr"
+                    }
+                ],
+                "threatDetailURL": "https://www.threathq.com/p42/search/default?m=7679",
+                "label": "FedEx Express Delivery - Pony",
+                "id": 7679,
+                "subjectSet": [
+                    {
+                        "totalCount": 1,
+                        "subject": "FedEx Express Delivery"
+                    }
+                ],
+                "extractedStringSet": [],
+                "firstPublished": 1480630797194,
+                "senderNameSet": [
+                    {
+                        "totalCount": 1,
+                        "name": "FedEx-Express\\u00ae"
+                    }
+                ],
+                "senderEmailSet": [],
+                "domainSet": [
+                    {
+                        "totalCount": 1,
+                        "domain": "message.fedex.com"
+                    }
+                ],
+                "senderIpSet": [],
+                "campaignBrandSet": [
+                    {
+                        "totalCount": 1,
+                        "brand": {
+                            "text": "FedEx",
+                            "id": 1480
+                        }
+                    }
+                ],
+                "threatType": "MALWARE",
+                "spamUrlSet": [],
+                "executiveSummary": "These emails impersonate a FedEx template and claim to deliver a document requiring the recipient attention. The attachment is an .ace archive that contains an executable representing the Pony malware. Pony acts as an information stealer by targeting stored passwords and credentials saved by the victim in a number of applications such as Web browsers, email clients, and FTP applications. Other information collected by this malware includes cryptocurrency wallets and password safe data.",
+                "lastPublished": 1480630803902,
+                "blockSet": [
+                    {
+                        "impact": "Major",
+                        "infrastructureTypeSubclass": {
+                            "description": "Update or Standard C2"
+                        },
+                        "malwareFamily": {
+                            "familyName": "Pony",
+                            "description": "Information stealer and malware downloader"
+                        },
+                        "roleDescription": "Command and control location used by malware",
+                        "data_1": {
+                            "url": "http://kenthalls.com/office1/gate.php",
+                            "path": "/office1/gate.php",
+                            "host": "kenthalls.com",
+                            "protocol": "http",
+                            "domain": "kenthalls.com"
+                        },
+                        "role": "C2",
+                        "blockType": "URL",
+                        "data": "http://kenthalls.com/office1/gate.php"
+                    }
+                ],
+                "reportURL": "https://www.threathq.com/api/l/activethreatreport/7679/html",
+                "feeds": [
+                    {
+                        "displayName": "PhishMe",
+                        "id": 23,
+                        "permissions": {
+                            "READ": true,
+                            "WRITE": false,
+                            "OWNER": false
+                        }
+                    }
+                ],
+                "malwareFamilySet": [
+                    {
+                        "familyName": "Pony",
+                        "description": "Information stealer and malware downloader"
+                    }
+                ]
+            }
+        ],
+        "page": {
+            "totalPages": 1,
+            "currentPage": 0,
+            "currentElements": 1,
+            "totalElements": 1
+        }
+    },
+    "success": true
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Student Website</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+  </head>
+  <body>
+        <form action="http://127.0.0.1:5000/fees" method="POST">
+          <div class="row">
+            <div class="col-25">
+              <label for="fname">Fees ID: </label>
+            </div>
+            <div class="col-75">
+              <input
+                type="text"
+                id="fname"
+                name="identity"
+                placeholder="Your ID.."
+              />
+            </div>
+
+            <div class="row">
+              <input type="submit" value="OK" />
+            </div>
+        </form>
+
+        {% for key,value in result.items() %}
+            Status: {{value}}
+        {% endfor %}
+  </body>
+</html>
