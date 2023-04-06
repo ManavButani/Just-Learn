@@ -1,0 +1,772 @@
+{
+    "windows": [
+        {
+            "title": "Windows 3.1",
+            "value": "WIN_31"
+        },
+        {
+            "title": "Windows 95",
+            "value": "WIN_95"
+        },
+        {
+            "title": "Windows 98",
+            "value": "WIN_98"
+        },
+        {
+            "title": "Windows Millennium Edition",
+            "value": "WIN_ME"
+        },
+        {
+            "title": "Windows NT 4",
+            "value": "WIN_NT"
+        },
+        {
+            "title": "Windows 2000 Professional",
+            "value": "WIN_2000_PRO"
+        },
+        {
+            "title": "Windows 2000 Server",
+            "value": "WIN_2000_SERV"
+        },
+        {
+            "title": "Windows 2000 Advanced Server",
+            "value": "WIN_2000_ADV_SERV"
+        },
+        {
+            "title": "Windows XP Home Edition",
+            "value": "WIN_XP_HOME"
+        },
+        {
+            "title": "Windows XP Professional",
+            "value": "WIN_XP_PRO"
+        },
+        {
+            "title": "Windows XP Professional Edition (64 bit)",
+            "value": "WIN_XP_PRO_64"
+        },
+        {
+            "title": "Windows Server 2003, Web Edition",
+            "value": "WIN_NET_WEB"
+        },
+        {
+            "title": "Windows Server 2003, Standard Edition",
+            "value": "WIN_NET_STANDARD"
+        },
+        {
+            "title": "Windows Server 2003, Enterprise Edition",
+            "value": "WIN_NET_ENTERPRISE"
+        },
+        {
+            "title": "Windows Server 2003, Datacenter Edition",
+            "value": "WIN_NET_DATACENTER"
+        },
+        {
+            "title": "Windows Small Business Server 2003",
+            "value": "WIN_NET_BUSINESS"
+        },
+        {
+            "title": "Windows Server 2003, Standard Edition (64 bit)",
+            "value": "WIN_NET_STANDARD_64"
+        },
+        {
+            "title": "Windows Server 2003, Enterprise Edition (64 bit)",
+            "value": "WIN_NET_ENTERPRISE_64"
+        },
+        {
+            "title": "Windows Longhorn (experimental)",
+            "value": "WIN_LONGHORN"
+        },
+        {
+            "title": "Windows Longhorn (64 bit) (experimental)",
+            "value": "WIN_LONGHORN_64"
+        },
+        {
+            "title": "Windows Server 2003, Datacenter Edition (64 bit) (experimental)",
+            "value": "WIN_NET_DATACENTER_64"
+        },
+        {
+            "title": "Windows Vista",
+            "value": "WIN_VISTA"
+        },
+        {
+            "title": "Windows Vista (64 bit)",
+            "value": "WIN_VISTA_64"
+        },
+        {
+            "title": "Windows 7",
+            "value": "WINDOWS_7"
+        },
+        {
+            "title": "Windows 7 (64 bit)",
+            "value": "WINDOWS_7_64"
+        },
+        {
+            "title": "Windows Server 2008 R2 (64 bit)",
+            "value": "WINDOWS_7_SERVER_64"
+        },
+        {
+            "title": "Windows 8",
+            "value": "WINDOWS_8"
+        },
+        {
+            "title": "Windows 8 (64 bit)",
+            "value": "WINDOWS_8_64"
+        },
+        {
+            "title": "Windows 8 Server (64 bit)",
+            "value": "WINDOWS_8_SERVER_64"
+        },
+        {
+            "title": "Windows 10",
+            "value": "WINDOWS_9"
+        },
+        {
+            "title": "Windows 10 (64 bit)",
+            "value": "WINDOWS_9_64"
+        },
+        {
+            "title": "Windows 10 Server (64 bit)",
+            "value": "WINDOWS_9_SERVER_64"
+        },
+        {
+            "title": "Windows 11 (64 bit)",
+            "value": "WINDOWS_11_64"
+        },
+        {
+            "title": "Windows 12 (64 bit)",
+            "value": "WINDOWS_12_64"
+        },
+        {
+            "title": "Windows Hyper-V",
+            "value": "WINDOWS_HYPERV"
+        },
+        {
+            "title": "Windows Server 2019",
+            "value": "WINDOWS_SERVER_2019"
+        },
+        {
+            "title": "Windows Server 2022",
+            "value": "WINDOWS_SERVER_2021"
+        },
+        {
+            "title": "Windows Server 2025",
+            "value": "WINDOWS_SERVER_2025"
+        }
+    ],
+    "linux": [
+        {
+            "title": "FreeBSD 10 or earlier",
+            "value": "FREEBSD"
+        },
+        {
+            "title": "FreeBSD 10 x64 or earlier",
+            "value": "FREEBSD_64"
+        },
+        {
+            "title": "FreeBSD 11",
+            "value": "FREEBSD_11"
+        },
+        {
+            "title": "FreeBSD 12",
+            "value": "FREEBSD_12"
+        },
+        {
+            "title": "FreeBSD 13",
+            "value": "FREEBSD_13"
+        },
+        {
+            "title": "FreeBSD 14 or later",
+            "value": "FREEBSD_14"
+        },
+        {
+            "title": "FreeBSD 11 x64",
+            "value": "FREEBSD_11_64"
+        },
+        {
+            "title": "FreeBSD 12 x64",
+            "value": "FREEBSD_12_64"
+        },
+        {
+            "title": "FreeBSD 13 x64",
+            "value": "FREEBSD_13_64"
+        },
+        {
+            "title": "FreeBSD 14 x64 or later",
+            "value": "FREEBSD_14_64"
+        },
+        {
+            "title": "Red Hat Linux 2.1",
+            "value": "REDHAT"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 2",
+            "value": "RHEL_2"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 3",
+            "value": "RHEL_3"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 3 (64 bit)",
+            "value": "RHEL_3_64"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 4",
+            "value": "RHEL_4"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 4 (64 bit)",
+            "value": "RHEL_4_64"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 5",
+            "value": "RHEL_5"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 5 (64 bit) (experimental)",
+            "value": "RHEL_5_64"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 6",
+            "value": "RHEL_6"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 6 (64 bit)",
+            "value": "RHEL_6_64"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 7",
+            "value": "RHEL_7"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 7 (64 bit)",
+            "value": "RHEL_7_64"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 8 (64 bit)",
+            "value": "RHEL_8_64"
+        },
+        {
+            "title": "Red Hat Enterprise Linux 9 (64 bit)",
+            "value": "RHEL_9_64"
+        },
+        {
+            "title": "CentOS 4/5",
+            "value": "CENTOS"
+        },
+        {
+            "title": "CentOS 4/5 (64-bit)",
+            "value": "CENTOS_64"
+        },
+        {
+            "title": "CentOS 6",
+            "value": "CENTOS_6"
+        },
+        {
+            "title": "CentOS 6 (64-bit)",
+            "value": "CENTOS_6_64"
+        },
+        {
+            "title": "CentOS 7",
+            "value": "CENTOS_7"
+        },
+        {
+            "title": "CentOS 7 (64-bit)",
+            "value": "CENTOS_7_64"
+        },
+        {
+            "title": "CentOS 8 (64-bit)",
+            "value": "CENTOS_8_64"
+        },
+        {
+            "title": "CentOS 9 (64-bit)",
+            "value": "CENTOS_9_64"
+        },
+        {
+            "title": "Oracle Linux 4/5",
+            "value": "ORACLE_LINUX"
+        },
+        {
+            "title": "Oracle Linux 6",
+            "value": "ORACLE_LINUX_6"
+        },
+        {
+            "title": "Oracle Linux 6 (64-bit)",
+            "value": "ORACLE_LINUX_6_64"
+        },
+        {
+            "title": "Oracle Linux 7",
+            "value": "ORACLE_LINUX_7"
+        },
+        {
+            "title": "Oracle Linux 7 (64-bit)",
+            "value": "ORACLE_LINUX_7_64"
+        },
+        {
+            "title": "Oracle Linux 8 (64-bit)",
+            "value": "ORACLE_LINUX_8_64"
+        },
+        {
+            "title": "Oracle Linux 9 (64-bit)",
+            "value": "ORACLE_LINUX_9_64"
+        },
+        {
+            "title": "Suse Linux",
+            "value": "SUSE"
+        },
+        {
+            "title": "Suse Linux (64 bit)",
+            "value": "SUSE_64"
+        },
+        {
+            "title": "Suse Linux Enterprise Server 9",
+            "value": "SLES"
+        },
+        {
+            "title": "Suse Linux Enterprise Server 9 (64 bit)",
+            "value": "SLES_64"
+        },
+        {
+            "title": "Suse linux Enterprise Server 10",
+            "value": "SLES_10"
+        },
+        {
+            "title": "Suse Linux Enterprise Server 10 (64 bit) (experimental)",
+            "value": "SLES_10_64"
+        },
+        {
+            "title": "Suse linux Enterprise Server 11",
+            "value": "SLES_11"
+        },
+        {
+            "title": "Suse Linux Enterprise Server 11 (64 bit)",
+            "value": "SLES_11_64"
+        },
+        {
+            "title": "Suse linux Enterprise Server 12",
+            "value": "SLES_12"
+        },
+        {
+            "title": "Suse Linux Enterprise Server 12 (64 bit)",
+            "value": "SLES_12_64"
+        },
+        {
+            "title": "Suse Linux Enterprise Server 15 (64 bit)",
+            "value": "SLES_15_64"
+        },
+        {
+            "title": "Suse Linux Enterprise Server 16 (64 bit)",
+            "value": "SLES_16_64"
+        },
+        {
+            "title": "Novell Linux Desktop 9",
+            "value": "NLD_9"
+        },
+        {
+            "title": "Open Enterprise Server",
+            "value": "OES"
+        },
+        {
+            "title": "Sun Java Desktop System",
+            "value": "SJDS"
+        },
+        {
+            "title": "Mandrake Linux",
+            "value": "MANDRAKE"
+        },
+        {
+            "title": "Mandriva Linux",
+            "value": "MANDRIVA"
+        },
+        {
+            "title": "Mandriva Linux (64 bit)",
+            "value": "MANDRIVA_64"
+        },
+        {
+            "title": "Turbolinux",
+            "value": "TURBO_LINUX"
+        },
+        {
+            "title": "Turbolinux (64 bit)",
+            "value": "TURBO_LINUX_64"
+        },
+        {
+            "title": "Ubuntu Linux",
+            "value": "UBUNTU"
+        },
+        {
+            "title": "Ubuntu Linux (64 bit)",
+            "value": "UBUNTU_64"
+        },
+        {
+            "title": "Debian GNU/Linux 4",
+            "value": "DEBIAN_4"
+        },
+        {
+            "title": "Debian GNU/Linux 4 (64 bit)",
+            "value": "DEBIAN_4_64"
+        },
+        {
+            "title": "Debian GNU/Linux 5",
+            "value": "DEBIAN_5"
+        },
+        {
+            "title": "Debian GNU/Linux 5 (64 bit)",
+            "value": "DEBIAN_5_64"
+        },
+        {
+            "title": "Debian GNU/Linux 6",
+            "value": "DEBIAN_6"
+        },
+        {
+            "title": "Debian GNU/Linux 6 (64 bit)",
+            "value": "DEBIAN_6_64"
+        },
+        {
+            "title": "Debian GNU/Linux 7",
+            "value": "DEBIAN_7"
+        },
+        {
+            "title": "Debian GNU/Linux 7 (64 bit)",
+            "value": "DEBIAN_7_64"
+        },
+        {
+            "title": "Debian GNU/Linux 8",
+            "value": "DEBIAN_8"
+        },
+        {
+            "title": "Debian GNU/Linux 8 (64 bit)",
+            "value": "DEBIAN_8_64"
+        },
+        {
+            "title": "Debian GNU/Linux 9",
+            "value": "DEBIAN_9"
+        },
+        {
+            "title": "Debian GNU/Linux 9 (64 bit)",
+            "value": "DEBIAN_9_64"
+        },
+        {
+            "title": "Debian GNU/Linux 10",
+            "value": "DEBIAN_10"
+        },
+        {
+            "title": "Debian GNU/Linux 10 (64 bit)",
+            "value": "DEBIAN_10_64"
+        },
+        {
+            "title": "Debian GNU/Linux 11",
+            "value": "DEBIAN_11"
+        },
+        {
+            "title": "Debian GNU/Linux 11 (64 bit)",
+            "value": "DEBIAN_11_64"
+        },
+        {
+            "title": "Debian GNU/Linux 12",
+            "value": "DEBIAN_12"
+        },
+        {
+            "title": "Debian GNU/Linux 12 (64 bit)",
+            "value": "DEBIAN_12_64"
+        },
+        {
+            "title": "Asianux Server 3",
+            "value": "ASIANUX_3"
+        },
+        {
+            "title": "Asianux Server 3 (64 bit)",
+            "value": "ASIANUX_3_64"
+        },
+        {
+            "title": "Asianux Server 4",
+            "value": "ASIANUX_4"
+        },
+        {
+            "title": "Asianux Server 4 (64 bit)",
+            "value": "ASIANUX_4_64"
+        },
+        {
+            "title": "Asianux Server 5 (64 bit)",
+            "value": "ASIANUX_5_64"
+        },
+        {
+            "title": "Asianux Server 7 (64 bit)",
+            "value": "ASIANUX_7_64"
+        },
+        {
+            "title": "Asianux Server 8 (64 bit)",
+            "value": "ASIANUX_8_64"
+        },
+        {
+            "title": "Asianux Server 9 (64 bit)",
+            "value": "ASIANUX_9_64"
+        },
+        {
+            "title": "OpenSUSE Linux",
+            "value": "OPENSUSE"
+        },
+        {
+            "title": "OpenSUSE Linux (64 bit)",
+            "value": "OPENSUSE_64"
+        },
+        {
+            "title": "Fedora Linux",
+            "value": "FEDORA"
+        },
+        {
+            "title": "Fedora Linux (64 bit)",
+            "value": "FEDORA_64"
+        },
+        {
+            "title": "CoreOS Linux (64 bit)",
+            "value": "COREOS_64"
+        },
+        {
+            "title": "VMware Photon (64 bit)",
+            "value": "VMWARE_PHOTON_64"
+        },
+        {
+            "title": "Linux 2.4x Kernel",
+            "value": "OTHER_24X_LINUX"
+        },
+        {
+            "title": "Linux 2.4x Kernel (64 bit) (experimental)",
+            "value": "OTHER_24X_LINUX_64"
+        },
+        {
+            "title": "Linux 2.6x Kernel",
+            "value": "OTHER_26X_LINUX"
+        },
+        {
+            "title": "Linux 2.6x Kernel (64 bit) (experimental)",
+            "value": "OTHER_26X_LINUX_64"
+        },
+        {
+            "title": "Linux 3.x Kernel",
+            "value": "OTHER_3X_LINUX"
+        },
+        {
+            "title": "Linux 3.x Kernel (64 bit)",
+            "value": "OTHER_3X_LINUX_64"
+        },
+        {
+            "title": "Linux 4.x Kernel",
+            "value": "OTHER_4X_LINUX"
+        },
+        {
+            "title": "Linux 4.x Kernel (64 bit)",
+            "value": "OTHER_4X_LINUX_64"
+        },
+        {
+            "title": "Linux 5.x Kernel",
+            "value": "OTHER_5X_LINUX"
+        },
+        {
+            "title": "Linux 5.x Kernel (64 bit)",
+            "value": "OTHER_5X_LINUX_64"
+        },
+        {
+            "title": "Linux 6.x Kernel",
+            "value": "OTHER_6X_LINUX"
+        },
+        {
+            "title": "Linux 6.x Kernel (64 bit)",
+            "value": "OTHER_6X_LINUX_64"
+        },
+        {
+            "title": "Linux 2.2x Kernel",
+            "value": "OTHER_LINUX"
+        },
+        {
+            "title": "Other Linux",
+            "value": "GENERIC_LINUX"
+        },
+        {
+            "title": "Linux (64 bit) (experimental)",
+            "value": "OTHER_LINUX_64"
+        }
+    ],
+    "others": [
+        {
+            "title": "Solaris 6",
+            "value": "SOLARIS_6"
+        },
+        {
+            "title": "Solaris 7",
+            "value": "SOLARIS_7"
+        },
+        {
+            "title": "Solaris 8",
+            "value": "SOLARIS_8"
+        },
+        {
+            "title": "Solaris 9",
+            "value": "SOLARIS_9"
+        },
+        {
+            "title": "Solaris 10 (32 bit) (experimental)",
+            "value": "SOLARIS_10"
+        },
+        {
+            "title": "Solaris 10 (64 bit) (experimental)",
+            "value": "SOLARIS_10_64"
+        },
+        {
+            "title": "Solaris 11 (64 bit)",
+            "value": "SOLARIS_11_64"
+        },
+        {
+            "title": "OS/2",
+            "value": "OS2"
+        },
+        {
+            "title": "eComStation 1.x",
+            "value": "ECOMSTATION"
+        },
+        {
+            "title": "eComStation 2.0",
+            "value": "ECOMSTATION_2"
+        },
+        {
+            "title": "Novell NetWare 4",
+            "value": "NETWARE_4"
+        },
+        {
+            "title": "Novell NetWare 5.1",
+            "value": "NETWARE_5"
+        },
+        {
+            "title": "Novell NetWare 6.x",
+            "value": "NETWARE_6"
+        },
+        {
+            "title": "SCO OpenServer 5",
+            "value": "OPENSERVER_5"
+        },
+        {
+            "title": "SCO OpenServer 6",
+            "value": "OPENSERVER_6"
+        },
+        {
+            "title": "SCO UnixWare 7",
+            "value": "UNIXWARE_7"
+        },
+        {
+            "title": "Mac OS 10.5",
+            "value": "DARWIN"
+        },
+        {
+            "title": "Mac OS 10.5 (64 bit)",
+            "value": "DARWIN_64"
+        },
+        {
+            "title": "Mac OS 10.6",
+            "value": "DARWIN_10"
+        },
+        {
+            "title": "Mac OS 10.6 (64 bit)",
+            "value": "DARWIN_10_64"
+        },
+        {
+            "title": "Mac OS 10.7",
+            "value": "DARWIN_11"
+        },
+        {
+            "title": "Mac OS 10.7 (64 bit)",
+            "value": "DARWIN_11_64"
+        },
+        {
+            "title": "Mac OS 10.8 (64 bit)",
+            "value": "DARWIN_12_64"
+        },
+        {
+            "title": "Mac OS 10.9 (64 bit)",
+            "value": "DARWIN_13_64"
+        },
+        {
+            "title": "Mac OS 10.10 (64 bit)",
+            "value": "DARWIN_14_64"
+        },
+        {
+            "title": "Mac OS 10.11 (64 bit)",
+            "value": "DARWIN_15_64"
+        },
+        {
+            "title": "Mac OS 10.12 (64 bit)",
+            "value": "DARWIN_16_64"
+        },
+        {
+            "title": "Mac OS 10.13 (64 bit)",
+            "value": "DARWIN_17_64"
+        },
+        {
+            "title": "Mac OS 10.14 (64 bit)",
+            "value": "DARWIN_18_64"
+        },
+        {
+            "title": "Mac OS 10.15 (64 bit)",
+            "value": "DARWIN_19_64"
+        },
+        {
+            "title": "Mac OS 11 (64 bit)",
+            "value": "DARWIN_20_64"
+        },
+        {
+            "title": "Mac OS 12 (64 bit)",
+            "value": "DARWIN_21_64"
+        },
+        {
+            "title": "Mac OS 13 (64 bit)",
+            "value": "DARWIN_22_64"
+        },
+        {
+            "title": "Mac OS 14 (64 bit)",
+            "value": "DARWIN_23_64"
+        },
+        {
+            "title": "VMware ESX 4",
+            "value": "VMKERNEL"
+        },
+        {
+            "title": "VMware ESX 5",
+            "value": "VMKERNEL_5"
+        },
+        {
+            "title": "VMware ESX 6",
+            "value": "VMKERNEL_6"
+        },
+        {
+            "title": "VMware ESXi 6.5 AND ESXi 6.7.",
+            "value": "VMKERNEL_65"
+        },
+        {
+            "title": "VMware ESX 7",
+            "value": "VMKERNEL_7"
+        },
+        {
+            "title": "VMware ESX 8",
+            "value": "VMKERNEL_8"
+        },
+        {
+            "title": "Amazon Linux 2 (64 bit)",
+            "value": "AMAZONLINUX2_64"
+        },
+        {
+            "title": "Amazon Linux 3 (64 bit)",
+            "value": "AMAZONLINUX3_64"
+        },
+        {
+            "title": "CRX Pod 1",
+            "value": "CRXPOD_1"
+        },
+        {
+            "title": "Rocky Linux (64-bit)",
+            "value": "ROCKYLINUX_64"
+        },
+        {
+            "title": "AlmaLinux (64-bit)",
+            "value": "ALMALINUX_64"
+        }
+    ]
+}

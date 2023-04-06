@@ -1,0 +1,130 @@
+.App{
+    position: absolute;
+    width: 100%;
+    top: 0; right: 0; bottom: 0; left: 0;
+    bottom: 0;
+    overflow: hidden;
+}
+
+.layout {
+    height: 100%;
+}
+
+.ant-layout-header{
+    position:fixed;
+    width:100%;
+    left:0;
+    top:0;
+    right: 0;
+    z-index: 1000;
+}
+
+.slider {
+    width: 300px;
+    background: hwb(0 60% 40%);
+}
+
+.navbar-title {
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 40px;
+
+}
+
+.menu {
+    background-color: #263238;
+    color: white;
+}
+
+.ant-menu>.ant-menu-item-active,
+.ant-menu>.ant-menu-submenu-active,
+.ant-menu>.ant-menu-item-open,
+.ant-menu>.ant-menu-submenu-open,
+.ant-menu>.ant-menu-item-selected,
+.ant-menu>.ant-menu-submenu-selected {
+    background-color: #9999994f !important;
+}
+
+.ant-menu>.ant-menu-item:hover {
+    background-color: #77767625 !important;
+}
+
+.ant-table-thead .ant-table-cell {
+    background-color: #263238 !important;
+    color: white !important;
+}
+
+.ant-table-wrapper .ant-table-filter-trigger {
+    color: white;
+}
+
+.ant-table-wrapper .ant-table-filter-trigger:hover {
+    color: white;
+}
+
+.anticon {
+    color: white;
+}
+
+.search-name-filter .anticon {
+    color: gray;
+}
+
+.search-name-filter {
+    margin-top : 2%;
+    margin-bottom: 2%;
+}
+
+.search-input-assignee {
+    height: 50px;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    margin-top: 20%;
+}
+
+.profile-details {
+    color: white;
+    text-align: center;
+}
+
+.profile-details p,span{
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.navbar-items {
+    display: flex;
+    justify-content: space-between;
+}
+
+#components-layout-demo-custom-trigger .trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+#components-layout-demo-custom-trigger .trigger:hover {
+    color: #1890ff;
+}
+
+#components-layout-demo-custom-trigger .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.3);
+}

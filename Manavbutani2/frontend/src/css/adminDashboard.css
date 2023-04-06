@@ -1,0 +1,12 @@
+.admin-action-btn{
+    background-color: #263238;
+}
+
+.admin-action-btn:hover{
+    background-color: #4c5357 !important;
+}
+
+.tag_issue h2 {
+    color: #263238;
+    margin-left: 20px;
+}

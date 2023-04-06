@@ -1,0 +1,57 @@
+.main_div {
+    display: flex;
+    justify-content: center;
+}
+.create_vm {
+    width: 100%;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+
+.form_title {
+    height: 45px;
+    margin-bottom: 15px;
+    padding-top: 20;
+    padding-left: 30;
+    padding-right: 30;
+    background-color: #263238;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.ant-typography {
+    color: white !important;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.create_btn {
+    background-color: #263238;
+    color: white;
+    text-align: center;
+}
+
+.button-div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.ant-btn {
+    text-align: center;
+}
+.custom_error{
+    color:  red;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

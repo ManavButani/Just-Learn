@@ -1,0 +1,13 @@
+version: '3'
+services:
+  vmt_frontend:
+    build:
+      context: .
+    environment:
+      CHOKIDAR_USEPOLLING: "true"
+    env_file:
+      - .env.keys
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
